@@ -1,0 +1,37 @@
+{
+    "name": "MoodyFoody",
+    "short_name": "Moody Foody",
+    "start_url": "/index.html",
+    "id": "/index.html",
+    "display": "standalone",
+    "background_color": "#FFE9D2",
+    "theme_color": "#FFE1C4",
+    "orientation": "portrait-primary",
+    "icons": [
+        {
+            "src": "/img/icons/icon72x72.png",
+            "type": "image/png",
+            "sizes": "72x72"
+        },
+        {
+            "src": "/img/icons/icon96x96.png",
+            "type": "image/png",
+            "sizes": "96x96"
+        },
+        {
+            "src": "/img/icons/icon150x150.png",
+            "type": "image/png",
+            "sizes": "150x150"
+        },
+        {
+            "src": "/img/icons/icon256x256.png",
+            "type": "image/png",
+            "sizes": "256x256"
+        },
+        {
+            "src": "/img/icons/icon512x512.png",
+            "type": "image/png",
+            "sizes": "512x512"
+        }
+    ]
+}
